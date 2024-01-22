@@ -1,9 +1,9 @@
 # Md Morshed Alam
 - Developing security-focused **Reinforcement Learning** and **Deep Learning** solutions for IoT
 - PhD Candidate at the [University of North Carolina at Charlotte](https://www.charlotte.edu/)
-- **Specialization**: Artficial Intelligence, Reinforcement Learning, Deep Learning, Statistical Modeling, Security and Privacy
-- **LinkedIn**: [https://www.linkedin.com/in/mmalam3/](https://www.linkedin.com/in/mmalam3/)
-- **Contact**: [malam3@uncc.edu](mailto:https://www.linkedin.com/in/mmalam3/)
+- Specialization: **Artficial Intelligence, Reinforcement Learning, Deep Learning, Statistical Modeling, Security and Privacy**
+- LinkedIn: [https://www.linkedin.com/in/mmalam3/](https://www.linkedin.com/in/mmalam3/)
+- Contact: [malam3@uncc.edu](mailto:https://www.linkedin.com/in/mmalam3/)
 - Open for roles: **Research Scientist, Applied Scientist, ML Engineer, Data Scientist** 
 
 ## Profiles
