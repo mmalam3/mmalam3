@@ -4,7 +4,7 @@
 - Specialization: **Artficial Intelligence, Reinforcement Learning, Deep Learning, Statistical Modeling, Security and Privacy**
 - LinkedIn: [https://www.linkedin.com/in/mmalam3/](https://www.linkedin.com/in/mmalam3/)
 - Contact: [malam3@uncc.edu](mailto:https://www.linkedin.com/in/mmalam3/)
-- Open for roles: **Research Scientist, Applied Scientist, ML Engineer, Data Scientist** 
+- Open for full-time roles: **Research Scientist, Applied Scientist, ML Engineer, Data Scientist** 
 
 ## Profiles
 - [Website](https://webpages.charlotte.edu/malam3/)
